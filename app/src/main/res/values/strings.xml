@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BitcoinPriceChartTest</string>
+    <string-array name="time_ranges">
+        <item>1 day</item>
+        <item>5 days</item>
+        <item>1 month</item>
+        <item>6 months</item>
+        <item>1 year</item>
+        <item>2 years</item>
+    </string-array>
+</resources>
